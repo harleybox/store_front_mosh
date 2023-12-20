@@ -19,7 +19,7 @@ def say_hello(request):
     # except ObjectDoesNotExist:
     #     pass
     
-    # 以下方式代替上面的try None
+    # 以下方式代替上面的try Except
     # product = Product.objects.filter(pk=0).first()
     
     # 1、filter where条件
